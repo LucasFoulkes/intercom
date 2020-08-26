@@ -1,2 +1,2 @@
-# intercom
-hardware project
+# Intercom
+
